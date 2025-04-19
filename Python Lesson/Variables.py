@@ -67,8 +67,6 @@ print(type([1, 2, 3, 4]))        # list
 print(type({'name': 'Asabeneh'})) # dict
 print(type((1,2)))               # tuple
 print(zip([1,2],[3,4]))    # zip
-a = "abc"
-b = "123"
-print(list(zip(a, b)))
+
 
 
